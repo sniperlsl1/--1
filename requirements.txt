@@ -1,0 +1,5 @@
+# 园区出入申请系统 - Python依赖包
+# 安装方法: pip install -r requirements.txt
+
+flask==3.0.0
+flask-cors==4.0.0
